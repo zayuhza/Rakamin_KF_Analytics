@@ -38,3 +38,4 @@ JOIN
 JOIN 
     `kimia_farma.kf_product` pr ON tr.product_id = pr.product_id
 LIMIT 50;
+
